@@ -4,7 +4,7 @@
 
 $Startnet = @'
 cls
-start PowerShell -NoL -C Start-OSDPad -Owner OSDeploy -Repo OSDPad -Path 'OSDCloud/Deploy'
+start PowerShell -NoL -C Start-OSDPad -RepoOwner OSDeploy -RepoName OSDPadRepo -RepoFolder 'OSDCloud/Deploy'
 '@
 
 Edit-OSDCloud.winpe -Startnet $Startnet
