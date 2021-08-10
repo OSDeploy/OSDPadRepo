@@ -1,3 +1,4 @@
-#Start-OSDPadRepo OOBE
+**Out of Box Experience**
+Start-OSDPadRepo OOBE
 
-These scripts are for use in OOBE
+These scripts should be run in OOBE
