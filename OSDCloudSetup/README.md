@@ -1,8 +1,11 @@
 # OSDCloud Setup Scripts
 
 **Requirements**
+- Windows 10 x64
 - Administrative Rights
-- Microsoft Windows ADK installed 
+- Open Internet
+- Microsoft Windows ADK
+- Microsoft Windows ADK WinPE Addon
 
 **Reference**
 
