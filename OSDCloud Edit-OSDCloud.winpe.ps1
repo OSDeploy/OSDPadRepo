@@ -1,1 +1,2 @@
-Start-OSDPadRepo OSDCloud/EditWinPE
+Import-Module OSD -Force
+Start-OSDPadRepo OSDCloud/WinPE
