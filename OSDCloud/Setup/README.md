@@ -1,4 +1,4 @@
-# OSDeploy/OSDPadRepo/OSDCloud/Template
+# OSDCloud Setup Scripts
 
 **Requirements**
 - Administrative Rights
