@@ -8,13 +8,13 @@ Try one of these commands:
 Start-OSDPadRepo OOBE
 
 **OSDCloud Setup**
-Start-OSDPadRepo OSDCloud/Setup
+Start-OSDPadRepo OSDCloudSetup
 
 **Edit-OSDCloud.winpe**
-Start-OSDPadRepo OSDCloud/WinPE
+Start-OSDPadRepo OSDCloudWinPE
 
 **OSDCloud Deployment Samples**
-Start-OSDPadRepo OSDCloud/Deploy
+Start-OSDPadRepo OSDCloudDeploy
 
 **OSDCloud Deployment Task Sequences**
-Start-OSDPadRepo OSDCloud/Tasks
+Start-OSDPadRepo OSDCloudTasks
